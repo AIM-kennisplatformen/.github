@@ -1,6 +1,6 @@
 ---
 name: Epic and sub epic template
-about: Epics and sub epics are deriverd from stakeholder and/or user research. Describing general stakeholder/user value to be realised. More conceptual than concrete. Umbrella (parent issue) for more concrete features. Also servers as reference point for more information, documentation and insight into what the main pupose of the features and tasks are the epic covers. Sub-epics have the same structure as Epics. Sub Epics serve as different main directions of realizing stakeholder/user value described in an epic. Thus sub epics are more (thematically) conrete then epics but not yet as technical as features.
+about: Epics and sub epics are derived from stakeholder and/or user research. Parent issue for more concrete features. Sub Epics are more (thematically) concrete then epics yet not as technical as features.
 title: ''
 labels: ''
 assignees: ''

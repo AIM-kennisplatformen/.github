@@ -1,6 +1,6 @@
 ---
 name: feature-template
-about: Stakeholder/user value from epics or sub epics translated into specific user value and the technical components that need to be realised to achieve these values. Features this have epics as parents and serve as an umbrella (parent) for tasks.
+about: Stakeholder/user value from epics or sub epics translated into specific user value and the technical components that need to be realised to achieve these values. Parent issue for tasks.
 title: ''
 labels: ''
 assignees: ''
