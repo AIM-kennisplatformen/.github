@@ -9,7 +9,7 @@ assignees: ''
 ## Description
 
 <!--
-Describe the problem space of the user or stakeholder value. Here the context of the value needs to be intuitively clear for the reader. Needs to be elaborate, but concise in the information. Add (scientific) documentation where needed. 
+Describe the problem space and solution space of the user or stakeholder problem and the value that alliviating or solving the problem will deliver. Here, the context of the value needs to be intuitively clear for the reader. Needs to be elaborate, but concise in information. Add (scientific) documentation where needed.
 -->
 
 ## ..., So that
@@ -39,7 +39,7 @@ Conditions that need to met to realise the described user value and resolve/alli
 
 <!--Label as appropriate.-->
 
-This Child Epic was initially reported by …, and … The Stakeholders assigned in the Labels, have the following interests … Decision-makers or buyers are \\\[not\\\] involved, since …
+This Epic was initially reported by …, and … The Stakeholders assigned in the Labels, have the following interests … Decision-makers or buyers are \\\[not\\\] involved, since …
 
 <!--Use official names of Stakeholders as documented in e.g., the domain model.-->
 

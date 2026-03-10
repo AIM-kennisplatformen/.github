@@ -9,14 +9,16 @@ assignees: ''
 
 ## Description
 
-<!--Preferably in user story format -->
+<!--
+Give a (very) short and concise description of the task. Preferably in user story format.
+-->
 
 ...
 
 ## Requirements
 
 <!--
-Brake down the work in small, sequential steps of components that need to be created
+Brake down the work in small, sequential steps of components that need to be created.
 -->
 
 1. [ ] ...
