@@ -12,7 +12,7 @@ assignees: ''
 Describe the problem space of the user or stakeholder value. Here the context of the value needs to be intuitively clear for the reader. Needs to be elaborate, but concise in the information. Add (scientific) documentation where needed. 
 -->
 
-## ..., So that ...
+## ..., So that
 
 <!--
 Use a Subject Verb Object (SVO) word order (‘Students (S) read (V) books (O)’).
@@ -23,7 +23,6 @@ For example, ‘As Student (S) I want to read (V) books (O)’.
 Epics can have multiple user stories for different roles.
 -->
 
-
 ## Attacker Story
 
 <!--As a(n) [attacker type]…, I want to …, so that …
@@ -32,10 +31,9 @@ See https://owaspsamm.org/model/verification/requirements-driven-testing/stream-
 
 ## Acceptance criteria
 
-
-<!--Choose acceptance criteria from the acceptance criteria library.-->
-
-<!--Add specific acceptance criteria where needed.-->
+<!--
+Conditions that need to met to realise the described user value and resolve/alliviate the problem described in the description
+-->
 
 ## Stakeholders and Users
 

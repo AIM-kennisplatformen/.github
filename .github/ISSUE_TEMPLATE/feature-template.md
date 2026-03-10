@@ -12,7 +12,7 @@ assignees: ''
 Add a short desciption of the context for the value described in the user story. Preferably relate to the problem space described in the parent epic.
 -->
 
-## ..., so that ...
+## ..., so that
 
 <!--
 Use a Subject Verb Object (SVO) word order (‘Students (S) read (V) books (O)’).
